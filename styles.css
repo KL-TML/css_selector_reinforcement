@@ -1,0 +1,18 @@
+p {
+  color: blue
+}
+
+.disp>li{
+  list-style: none;
+  display: inline-block;
+}
+
+a:hover{
+  background: pink;
+}
+
+h1{
+  font-size: 60px;
+}
+
+/*
